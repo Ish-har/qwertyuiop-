@@ -1,0 +1,41 @@
+h1{
+    
+    font-family:Baskervville;
+    text-align: center;
+    font-size:100px;
+    color: #AEF3E7;
+}
+iframe{
+margin-left: 300px;
+    margin-top: 100px;
+    width: 600px;
+}
+li{
+font-family: Baskervville;
+}
+.navbar-brand{
+    font-family: Baskervville;
+}
+.background{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-black-abstract-hexagon-creative-geometric-background-material-image_141231.jpg")
+}
+#myNavbar{
+    background-color:#8EE3EF;
+    color:;
+}
+.announcment{
+    background-color: aliceblue;
+}
+i{
+    color:blanchedalmond;
+    font-family: Baskervville;
+}
+a{
+font-family: Baskervville;
+    color:blanchedalmond;
+}
+h3{
+    
+    color:blanchedalmond;
+    font-family: Baskervville;
+}
